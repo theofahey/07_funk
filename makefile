@@ -1,2 +1,2 @@
-all: main.c
-	gcc main.c
+all: funky.c
+	gcc funky.c
