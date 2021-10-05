@@ -48,7 +48,7 @@ int main(){
     for (i =0; i < size; i++){
         printf("%d ", arrb[i]);
     }
-    printf("\n");
+    printf("]\n");
     return 0;
     
 }
